@@ -375,7 +375,7 @@
               "settings": {
 
                 "fileUris": [
-                 "https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/hgs/scripts/dscinit.ps1"
+                 "https://raw.githubusercontent.com/Plexis1241/azure-quickstart-templates/master/hgs/scripts/dscinit.ps1"
                 ],
 				
 				
